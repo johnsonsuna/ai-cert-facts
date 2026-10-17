@@ -31,8 +31,10 @@ Corrections are welcome: open an issue with the vendor URL that shows the right 
 - `facts.json`: the same data, machine-readable.
 - Maintained by [Examifyr](https://www.examifyr.com), free readiness tests for these exams.
 
-## Status (as of 2026-10-14)
+## Status (as of 2026-10-17)
 
-- 6 exams. Not yet published (pending owner approval).
+- 6 exams. Published 2026-10-17.
+- Every figure re-checked against the live examifyr.com data the day it was published;
+  the SecAI+ and Security+ V8 rows were re-read from CompTIA's pages on 2026-10-17.
 
 License: CC BY 4.0. Cite the vendor page, not this repo, for anything official.
