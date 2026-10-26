@@ -14,6 +14,7 @@
     "prerequisites": "1–2 years in AI/ML roles plus production agentic work",
     "status": null,
     "source": "https://www.nvidia.com/en-us/learn/certification/agentic-ai-professional/",
+    "policy_source": null,
     "verified": "2026-10-04"
   },
   {
@@ -31,6 +32,7 @@
     "prerequisites": "Python app development plus familiarity with Azure and generative AI",
     "status": "Replaced AI-102, which retired 2026-06-30. Available from 2026-06-19.",
     "source": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+    "policy_source": null,
     "verified": "2026-10-02"
   },
   {
@@ -48,6 +50,7 @@
     "prerequisites": "3–4 years in IT with 2+ hands-on in security; Security+, CySA+ or PenTest+ recommended",
     "status": "Launched 2026-02-17. Retirement estimated three years after launch.",
     "source": "https://www.comptia.org/en/certifications/secai/",
+    "policy_source": null,
     "verified": "2026-10-02"
   },
   {
@@ -65,6 +68,7 @@
     "prerequisites": "Python syntax and familiarity with Azure resources",
     "status": "Replaced AI-900, which retired 2026-06-30.",
     "source": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
+    "policy_source": null,
     "verified": "2026-10-04"
   },
   {
@@ -76,13 +80,14 @@
     "questions": "not published",
     "duration_minutes": "120",
     "passing_score": "700 on a 1000-point scale (not a percentage)",
-    "validity": "Two years",
+    "validity": "Two years (GitHub-wide policy)",
     "renewal": "Moving to Microsoft's renewal process",
     "domains": "6",
     "prerequisites": "SDLC and GitHub workflow experience, plus coding agents, MCP servers and agent customisation",
     "status": "Study guide dated 2026-05-04. No Microsoft Learn access during the exam — it is a GitHub exam.",
     "source": "https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/",
-    "verified": "2026-10-14"
+    "policy_source": "https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/",
+    "verified": "2026-10-26"
   },
   {
     "exam": "SY0-801",
@@ -99,6 +104,7 @@
     "prerequisites": "not published",
     "status": "Launches 2026-11-17. The current version is V7 / SY0-701, which retires 2027-06-11 (English).",
     "source": "https://www.comptia.org/en-us/certifications/security/v8/",
+    "policy_source": null,
     "verified": "2026-10-04"
   }
 ]
