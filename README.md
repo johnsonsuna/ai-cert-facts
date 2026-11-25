@@ -11,7 +11,7 @@ repeating a number that circulates online.
 | **CY0-001** CompTIA SecAI+ | CompTIA | Intermediate | not published | Maximum of 60 | 60 | 600 on a 100–900 scale (not a percentage) | not published | [vendor page](https://www.comptia.org/en/certifications/secai/) (2026-11-12) |
 | **AI-901** Microsoft Certified: Azure AI Fundamentals | Microsoft | Fundamentals | not published | not published | not published | 700 on a 1000-point scale (not a percentage) | Does not expire | [vendor page](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/) (2026-10-04) |
 | **GH-600** GitHub Certified: Agentic AI Developer | GitHub | Intermediate | not published | not published | 120 | 700 on a 1000-point scale (not a percentage) | Two years (GitHub-wide policy) | [vendor page](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/), validity: [GitHub policy page](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/) (2026-11-12), Microsoft Learn access: [exam experience page](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience) (2026-11-24) |
-| **SY0-801** CompTIA Security+ (V8) | CompTIA | Intermediate | not published | Maximum of 90 | 90 | 750 on a 100–900 scale (not a percentage) | not published | [vendor page](https://www.comptia.org/en-us/certifications/security/v8/) (2026-11-24), recommended version and V7 retirement: [Security+ page](https://www.comptia.org/en-us/certifications/security/) (2026-11-24) |
+| **SY0-801** CompTIA Security+ (V8) | CompTIA | Intermediate | not published | Maximum of 90 | 90 | 750 on a 100–900 scale (not a percentage) | not published | [vendor page](https://www.comptia.org/en-us/certifications/security/v8/) (2026-11-24), recommended version and V7 retirement: [Security+ page](https://www.comptia.org/en-us/certifications/security/) (2026-11-24), recommended experience and V8 launch date: [V8 page](https://www.comptia.org/en-us/certifications/security/v8/) (2026-11-25), SY0-701 code and retirement: [V7 page](https://www.comptia.org/en-us/certifications/security/v7/) (2026-11-25) |
 
 ## Why this exists
 
@@ -34,7 +34,7 @@ Corrections are welcome: open an issue with the vendor URL that shows the right 
   price is when it is not the exam page's own figure.
 - Maintained by [Examifyr](https://www.examifyr.com), free readiness tests for these exams.
 
-## Status (as of 2026-11-24)
+## Status (as of 2026-11-25)
 
 - 6 exams. Published 2026-10-17.
 - Every figure re-checked against the live examifyr.com data the day it was published;
@@ -46,5 +46,7 @@ Corrections are welcome: open an issue with the vendor URL that shows the right 
   retake price. Security+ V8 now shows CompTIA's recommended experience and that CompTIA
   calls it the recommended version. GH-600's note about Microsoft Learn access is now
   attributed to Microsoft's exam-experience page.
+- 2026-11-25: Security+ rows now say which page backs what: recommended experience and the
+  V8 launch date are on CompTIA's V8 page, and the SY0-701 code is on its V7 page.
 
 License: CC BY 4.0. Cite the vendor page, not this repo, for anything official.

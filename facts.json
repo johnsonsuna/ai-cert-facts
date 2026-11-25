@@ -132,6 +132,16 @@
         "covers": "recommended version and V7 retirement date",
         "url": "https://www.comptia.org/en-us/certifications/security/",
         "verified": "2026-11-24"
+      },
+      {
+        "covers": "prerequisites and V8 launch date",
+        "url": "https://www.comptia.org/en-us/certifications/security/v8/",
+        "verified": "2026-11-25"
+      },
+      {
+        "covers": "V7 exam code (SY0-701) and English retirement date",
+        "url": "https://www.comptia.org/en-us/certifications/security/v7/",
+        "verified": "2026-11-25"
       }
     ],
     "verified": "2026-11-24"
