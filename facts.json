@@ -30,7 +30,7 @@
     "vendor": "Microsoft",
     "level": "Associate",
     "price_usd": "$165",
-    "price_note": "Microsoft's exam FAQ: associate exams typically cost US$165, priced by country or region",
+    "price_note": "Microsoft's exam FAQ: Associate and Expert exams typically cost US$165, priced by country or region",
     "questions": "not published",
     "duration_minutes": "120",
     "passing_score": "700 on a 1000-point scale (not a percentage)",
@@ -129,7 +129,7 @@
     "policy_source": null,
     "other_sources": [
       {
-        "covers": "recommended version and V7 retirement date",
+        "covers": "recommended version and V7 retirement dates",
         "url": "https://www.comptia.org/en-us/certifications/security/",
         "verified": "2026-11-24"
       },
