@@ -99,9 +99,16 @@
     "renewal": "Moving to Microsoft's renewal process",
     "domains": "6",
     "prerequisites": "SDLC and GitHub workflow experience, plus coding agents, MCP servers and agent customisation",
-    "status": "Study guide dated 2026-05-04.",
+    "status": "Study guide dated 2026-05-04. Microsoft says Microsoft Learn access is not available on GitHub exams.",
     "source": "https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/",
     "policy_source": "https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/",
+    "other_sources": [
+      {
+        "covers": "Microsoft Learn access during the exam",
+        "url": "https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience",
+        "verified": "2026-11-24"
+      }
+    ],
     "verified": "2026-11-12"
   },
   {
@@ -117,16 +124,16 @@
     "renewal": "not published",
     "domains": "5",
     "prerequisites": "Recommended: security administrator with two years of hands-on experience",
-    "status": "Launch date 2026-11-17. V7 remains available until retirement; its English exam retires 2027-06-11.",
+    "status": "V8 launch date 2026-11-17; CompTIA calls it the recommended version. V7 / SY0-701 remains available until retirement; its English exam retires 2027-06-11.",
     "source": "https://www.comptia.org/en-us/certifications/security/v8/",
     "policy_source": null,
     "other_sources": [
       {
-        "covers": "V7 retirement date",
+        "covers": "recommended version and V7 retirement date",
         "url": "https://www.comptia.org/en-us/certifications/security/",
         "verified": "2026-11-24"
       }
     ],
-    "verified": "2026-11-12"
+    "verified": "2026-11-24"
   }
 ]

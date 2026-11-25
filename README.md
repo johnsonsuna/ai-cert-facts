@@ -10,8 +10,8 @@ repeating a number that circulates online.
 | **AI-103** Microsoft Certified: Azure AI Apps and Agents Developer Associate | Microsoft | Associate | $165 typical, priced by region ([exam FAQ](https://learn.microsoft.com/en-us/credentials/certifications/frequently-asked-questions), 2026-11-24) | not published | 120 | 700 on a 1000-point scale (not a percentage) | One year | [vendor page](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/) (2026-10-02) |
 | **CY0-001** CompTIA SecAI+ | CompTIA | Intermediate | not published | Maximum of 60 | 60 | 600 on a 100–900 scale (not a percentage) | not published | [vendor page](https://www.comptia.org/en/certifications/secai/) (2026-11-12) |
 | **AI-901** Microsoft Certified: Azure AI Fundamentals | Microsoft | Fundamentals | not published | not published | not published | 700 on a 1000-point scale (not a percentage) | Does not expire | [vendor page](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/) (2026-10-04) |
-| **GH-600** GitHub Certified: Agentic AI Developer | GitHub | Intermediate | not published | not published | 120 | 700 on a 1000-point scale (not a percentage) | Two years (GitHub-wide policy) | [vendor page](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/), validity: [GitHub policy page](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/) (2026-11-12) |
-| **SY0-801** CompTIA Security+ (V8) | CompTIA | Intermediate | not published | Maximum of 90 | 90 | 750 on a 100–900 scale (not a percentage) | not published | [vendor page](https://www.comptia.org/en-us/certifications/security/v8/) (2026-11-12), V7 retirement: [Security+ page](https://www.comptia.org/en-us/certifications/security/) (2026-11-24) |
+| **GH-600** GitHub Certified: Agentic AI Developer | GitHub | Intermediate | not published | not published | 120 | 700 on a 1000-point scale (not a percentage) | Two years (GitHub-wide policy) | [vendor page](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/), validity: [GitHub policy page](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/) (2026-11-12), Microsoft Learn access: [exam experience page](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience) (2026-11-24) |
+| **SY0-801** CompTIA Security+ (V8) | CompTIA | Intermediate | not published | Maximum of 90 | 90 | 750 on a 100–900 scale (not a percentage) | not published | [vendor page](https://www.comptia.org/en-us/certifications/security/v8/) (2026-11-24), recommended version and V7 retirement: [Security+ page](https://www.comptia.org/en-us/certifications/security/) (2026-11-24) |
 
 ## Why this exists
 
@@ -43,7 +43,8 @@ Corrections are welcome: open an issue with the vendor URL that shows the right 
   attributed to GitHub's certification policy, still published on the GH-300 page.
 - 2026-11-24: AI-103's $165 is now attributed to Microsoft's exam FAQ as the typical
   associate price (the exam page prints no figure), and NCP-AAI renewal no longer states a
-  retake price. Security+ V8 now shows CompTIA's recommended experience, and an unsourced
-  GH-600 note about Microsoft Learn access was removed.
+  retake price. Security+ V8 now shows CompTIA's recommended experience and that CompTIA
+  calls it the recommended version. GH-600's note about Microsoft Learn access is now
+  attributed to Microsoft's exam-experience page.
 
 License: CC BY 4.0. Cite the vendor page, not this repo, for anything official.
