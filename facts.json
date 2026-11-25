@@ -9,13 +9,20 @@
     "duration_minutes": "120",
     "passing_score": "not published",
     "validity": "Two years from issuance",
-    "renewal": "Retake the exam ($200)",
+    "renewal": "Retake the exam (no separate retake fee published)",
     "domains": "10",
     "prerequisites": "1–2 years in AI/ML roles plus production agentic work",
     "status": null,
     "source": "https://www.nvidia.com/en-us/learn/certification/agentic-ai-professional/",
     "policy_source": null,
-    "verified": "2026-10-04"
+    "other_sources": [
+      {
+        "covers": "retake terms",
+        "url": "https://www.nvidia.com/en-us/learn/certification/",
+        "verified": "2026-11-24"
+      }
+    ],
+    "verified": "2026-11-24"
   },
   {
     "exam": "AI-103",
@@ -23,6 +30,7 @@
     "vendor": "Microsoft",
     "level": "Associate",
     "price_usd": "$165",
+    "price_note": "Microsoft's exam FAQ: associate exams typically cost US$165, priced by country or region",
     "questions": "not published",
     "duration_minutes": "120",
     "passing_score": "700 on a 1000-point scale (not a percentage)",
@@ -33,6 +41,13 @@
     "status": "Replaced AI-102, which retired 2026-06-30. Available from 2026-06-19.",
     "source": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
     "policy_source": null,
+    "other_sources": [
+      {
+        "covers": "price",
+        "url": "https://learn.microsoft.com/en-us/credentials/certifications/frequently-asked-questions",
+        "verified": "2026-11-24"
+      }
+    ],
     "verified": "2026-10-02"
   },
   {
@@ -51,7 +66,7 @@
     "status": "Launched 2026-02-17. Retirement estimated three years after launch.",
     "source": "https://www.comptia.org/en/certifications/secai/",
     "policy_source": null,
-    "verified": "2026-10-02"
+    "verified": "2026-11-12"
   },
   {
     "exam": "AI-901",
@@ -84,10 +99,17 @@
     "renewal": "Moving to Microsoft's renewal process",
     "domains": "6",
     "prerequisites": "SDLC and GitHub workflow experience, plus coding agents, MCP servers and agent customisation",
-    "status": "Study guide dated 2026-05-04. No Microsoft Learn access during the exam — it is a GitHub exam.",
+    "status": "Study guide dated 2026-05-04. Microsoft says Microsoft Learn access is not available on GitHub exams.",
     "source": "https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/",
     "policy_source": "https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/",
-    "verified": "2026-10-26"
+    "other_sources": [
+      {
+        "covers": "Microsoft Learn access during the exam",
+        "url": "https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience",
+        "verified": "2026-11-24"
+      }
+    ],
+    "verified": "2026-11-12"
   },
   {
     "exam": "SY0-801",
@@ -101,10 +123,27 @@
     "validity": "not published",
     "renewal": "not published",
     "domains": "5",
-    "prerequisites": "not published",
-    "status": "Launches 2026-11-17. The current version is V7 / SY0-701, which retires 2027-06-11 (English).",
+    "prerequisites": "Recommended: security administrator with two years of hands-on experience",
+    "status": "V8 launch date 2026-11-17; CompTIA calls it the recommended version. V7 / SY0-701 remains available until retirement; its English exam retires 2027-06-11.",
     "source": "https://www.comptia.org/en-us/certifications/security/v8/",
     "policy_source": null,
-    "verified": "2026-10-04"
+    "other_sources": [
+      {
+        "covers": "recommended version and V7 retirement date",
+        "url": "https://www.comptia.org/en-us/certifications/security/",
+        "verified": "2026-11-24"
+      },
+      {
+        "covers": "prerequisites and V8 launch date",
+        "url": "https://www.comptia.org/en-us/certifications/security/v8/",
+        "verified": "2026-11-25"
+      },
+      {
+        "covers": "V7 exam code (SY0-701) and English retirement date",
+        "url": "https://www.comptia.org/en-us/certifications/security/v7/",
+        "verified": "2026-11-25"
+      }
+    ],
+    "verified": "2026-11-24"
   }
 ]
